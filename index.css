@@ -1,0 +1,84 @@
+body{
+    margin: 60px;
+    background-color:rgb(232, 234, 214);
+    text-align:justify;
+}
+h1{
+    color: rgb(239, 159, 239);
+    border:solid 3px;
+    text-align: center;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 1px;
+    line-height: 100px;
+}
+h4{
+    color: rgb(239, 159, 239);
+    text-align: center;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+h5{
+    color: rgb(239, 159, 239);
+    text-align: center;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.intro{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+    padding-bottom: 1% ;
+}
+.paragraph{
+    font-family:'Times New Roman', Times, serif;
+    padding-left: 1%;
+    font-size: 20px;
+    padding-top: 1%;
+    padding-right: 1%;
+    padding-bottom: 1% ;
+}
+.email{
+    font-family:'Times New Roman', Times, serif;
+    color:red;
+    font-size: 20px;
+    display:block;
+    text-align:center;
+    text-decoration: none;
+    margin-left:5%;
+    border-radius:2%;
+}
+.email:hover{
+    background-color: whitesmoke;
+    color: red;
+    border-radius: 50%;
+}
+.email:active{
+    color: whitesmoke;
+    font-size: 60px;
+}
+.at{
+    color:rgb(113, 58, 181);
+}
+span{
+    color:purple
+}
+#bookcover1{
+    margin-left:5%;
+    width: 30%; 
+    height: 55%; 
+    display: inline-block;
+}
+#bookcover2{
+    margin-right: 28%;
+    width: 36%; 
+    height: 55%; 
+    display: inline-block;
+}
+#author{
+    width: 70%;  
+    margin-left: 15%;
+    margin-right: 15%;
+}
